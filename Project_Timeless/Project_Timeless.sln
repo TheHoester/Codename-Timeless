@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_Timeless", "Project_Timeless.csproj", "{102FDB15-E302-64B4-1386-BFA65069B4F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_Timeless.Editor", "Project_Timeless.Editor.csproj", "{0DD650F6-C41D-193A-52D0-B942D88D2AC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{102FDB15-E302-64B4-1386-BFA65069B4F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102FDB15-E302-64B4-1386-BFA65069B4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102FDB15-E302-64B4-1386-BFA65069B4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102FDB15-E302-64B4-1386-BFA65069B4F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DD650F6-C41D-193A-52D0-B942D88D2AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD650F6-C41D-193A-52D0-B942D88D2AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD650F6-C41D-193A-52D0-B942D88D2AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD650F6-C41D-193A-52D0-B942D88D2AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
